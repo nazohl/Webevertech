@@ -1,0 +1,44 @@
+[19-Aug-2016 05:38:53 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/webever/public_html/mailsend.php on line 3
+[07-Sep-2016 10:54:05 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/webever/public_html/mailsend.php on line 3
+[07-Sep-2016 13:41:56 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/webever/public_html/mailsend.php on line 3
+[07-Sep-2016 13:42:08 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/webever/public_html/mailsend.php on line 3
+[13-Oct-2016 01:02:08 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/webever/public_html/mailsend.php on line 3
+[20-Nov-2016 12:42:19 UTC] PHP Warning:  date(): Invalid date.timezone value 'Asia/Delhi', we selected the timezone 'UTC' for now. in /home/webever/public_html/mailsend.php on line 3
+[24-Jun-2018 15:35:28 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[24-Jun-2018 15:35:28 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[24-Jun-2018 15:35:28 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[23-Apr-2019 23:54:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[23-Apr-2019 23:54:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[23-Apr-2019 23:54:37 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[23-Apr-2019 23:54:37 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[23-Apr-2019 23:54:37 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[19-Jun-2019 15:43:49 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[19-Jun-2019 15:43:49 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[19-Jun-2019 15:43:49 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[19-Jun-2019 15:43:49 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[19-Jun-2019 15:43:49 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[26-Aug-2019 06:58:11 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[26-Aug-2019 06:58:11 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[26-Aug-2019 06:58:11 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[26-Aug-2019 06:58:11 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[26-Aug-2019 06:58:11 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Oct-2019 09:47:37 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Oct-2019 09:47:37 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Oct-2019 09:47:37 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Oct-2019 09:47:37 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Oct-2019 09:47:37 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[18-Jun-2020 18:19:47 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[18-Jun-2020 18:19:47 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[18-Jun-2020 18:19:47 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[18-Jun-2020 18:19:47 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[18-Jun-2020 18:19:47 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Aug-2020 08:40:00 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Aug-2020 08:40:00 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Aug-2020 08:40:01 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Aug-2020 08:40:01 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Aug-2020 08:40:01 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Aug-2020 08:40:02 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[05-Aug-2020 08:40:02 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[05-Aug-2020 08:40:02 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Aug-2020 08:40:02 America/Chicago] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
+[05-Aug-2020 08:40:02 America/Chicago] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/php56/lib/php') in /home4/iitnjiad/public_html/webevertech.com/mailsend.php on line 98
