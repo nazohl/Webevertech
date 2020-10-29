@@ -1,5 +1,7 @@
 $(document).ready(function(){
 	
+
+
 	var items = $('#stage li'),
 		itemsByTags = {};
 	

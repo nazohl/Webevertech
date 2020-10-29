@@ -28,6 +28,8 @@
     ></script>
     <script type="text/javascript">
       $(window).load(function () {
+        //hide call to action button
+
         //$(window).load() must be used instead of $(document).ready() because of Webkit compatibility
 
         // Slideshow > Standard
@@ -124,6 +126,11 @@
   <body>
     <div class="clear"></div>
     <div id="main">
+      <div class="call-to-action" id="CtA">
+        <div id="cancel" onclick="closeHandler()">x</div>
+        <a href="inquiry.html"><div class="button"></div></a>
+      </div>
+
       <header id="top-container">
         <div class="top-strip">
           <div class="fix-content">
@@ -251,7 +258,7 @@
                 </li>
                 <li><a href="hire-resource.html">Hire Resource</a></li>
                 <li><a href="contact.html">Contact</a></li>
-                <li><a href="blog" target="_blank">Blog</a></li>
+                <!-- <li><a href="blog.html" target="_blank">Blog</a></li> -->
               </ul>
             </nav>
           </div>
@@ -619,7 +626,7 @@
             </div>
             <div class="clear"></div>
             <div class="copyright">
-              &copy; 2016, Copyright All Rights Reserved By
+              &copy; 2020, Copyright All Rights Reserved By
               <a href="http://www.webever.co">Webever Technologies</a>
             </div>
           </div>
@@ -682,6 +689,13 @@
           }
         );
       });
+    </script>
+
+    <script type="text/javascript">
+      function closeHandler() {
+        document.getElementById('CtA').className = 'hideButton';
+        console.log('hidebutton called');
+      }
     </script>
   </body>
 </html>
