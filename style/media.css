@@ -996,6 +996,9 @@
   cursor: pointer;
   margin-bottom: 5px;
 }
+.call-to-action .button:hover {
+  background-color: rgb(226, 226, 226);
+}
 
 .hideButton {
   display: none;
@@ -1010,4 +1013,10 @@
   color: white;
   font-weight: 700;
   display: inline-block;
+}
+
+@media screen and (max-width: 768px) {
+  .call-to-action {
+    display: none;
+  }
 }
